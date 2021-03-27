@@ -1,4 +1,7 @@
-# ClientDemoScss
+# client-demo-scss
+Demo client created to help follow along the tutorial in the article - [Quick, effective and efficient way to test your separately hosted css library on your client, during development](https://dev-obiagba.hashnode.dev/quick-effective-and-efficient-way-to-test-your-separately-hosted-css-library-on-your-client-during-development) ***SCSS version***.
+
+***SCSS library repo***: [library-demo-scss](https://github.com/Ifycode/library-demo-scss)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
